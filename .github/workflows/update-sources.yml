@@ -1,0 +1,36 @@
+name: Update AltStore Sources
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * 0"
+
+jobs:
+  update:
+    name: Run AltStore Updater
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4.2.2
+
+      - name: Install Nix
+        uses: cachix/install-nix-action@v30
+        with:
+          extra_nix_config: |
+            allow-import-from-derivation = false
+            eval-cache = false
+            experimental-features = flakes nix-command
+            extra-experimental-features = pipe-operators
+
+      - name: Run Updater
+        run: |
+          nix run .
+
+      - name: Commit Source Changes
+        uses: planetscale/ghcommit-action@v0.2.22
+        with:
+          commit_message: "feat: publish latest AltStore source"
+          repo: ${{ github.repository }}
+          branch: ${{ github.head_ref || github.ref_name }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
