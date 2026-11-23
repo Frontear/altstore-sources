@@ -20,6 +20,10 @@ python3Packages.buildPythonApplication (finalAttrs: {
     hatchling
   ];
 
+  dependencies = with python3Packages; [
+    requests
+  ];
+
   meta = with lib; {
     description = "Generate an AltStore source file for my apps";
     homepage = "https://github.com/Frontear/altstore-sources";
