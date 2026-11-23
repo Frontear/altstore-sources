@@ -101,6 +101,105 @@
           "size": 160000000
         }
       ]
+    },
+    {
+      "name": "YouTubePlus",
+      "bundleIdentifier": "com.google.ios.youtube",
+      "developerName": "dayanch96",
+      "subtitle": "YTLite",
+      "category": "photo-video",
+      "version": "21.47.6",
+      "versionDate": "2026-11-22T23:58:23Z",
+      "versionDescription": "21.47.6",
+      "downloadURL": "https://github.com/mrdrvt99/YouProEXTRA/releases/download/ytl-ipa9/YouTubePlus_21.47.6_6.0.ipa",
+      "size": 154815652,
+      "localizedDescription": "YouTube 21.47.6 | YouTubePlus_21.47.6_6.0\n\n### Latest Release, ENJOY!!\r\n\r\n**Cracked by** [@Spy_G](https://t.me/spyg_vault)\r\n\r\n> [!NOTE]\r\n> - \ud83d\udd11 No subscription required. \r\n> - \u2705 New Downloads manager.\r\n> - \ud83d\udcfa Full 4KHDR support.\r\n> - \ud83d\udcdd [6.0 release notes](https://github.com/dayanch96/YTLite/releases/tag/v6.0)\r\n> - \ud83e\udee7  Liquid Glass and iPhone Duo support.\r\n> - \ud83c\udd95 `YTLowContrastMode` tweak, enabled by default.\r\n>\r\n> - - -\r\n> #### Extra Tweaks: \r\n> - `YouPip` `YTweaks` `YTABConfig` `YouQuality` `YouChooseQuality` `YouGetCaption` `YTHoldForSpeed` `YTNativeShare`  `YTLowContrastMode` \r\n> -  `Return-YouTube-Dislikes` `DontEatMyContent` `Open in YouTube (Safari Extension)` `VolumeBoostYT`\r\n\r\n> [!WARNING]\r\n> - 21.34.3+ builds require iOS 17+ now.\r\n> - \u26a0Fix downloads by setting downloading button placement in youtubeplus settings to Overlay.\r\n> - \u26a0Disable Liquid Glass option in Interface settings if tab bar is glitched for you. or reinstall on top of the installed ipa.  Video player bar is still glitched.",
+      "iconURL": "https://raw.githubusercontent.com/mrdrvt99/Altstore-Repository/main/assets/YouTube.png",
+      "tintColor": "FF0000",
+      "screenshotURLs": [],
+      "appPermissions": {
+        "entitlements": [
+          "com.apple.security.application-groups",
+          "com.apple.developer.associated-domains",
+          "com.apple.developer.coremedia.allow-alternate-video-decoder-selection",
+          "com.apple.developer.declared-age-range",
+          "com.apple.developer.storekit.request-data",
+          "com.apple.developer.device-information.user-assigned-device-name",
+          "com.apple.developer.group-session",
+          "keychain-access-groups",
+          "com.apple.developer.networking.multicast",
+          "aps-environment",
+          "com.apple.developer.siri",
+          "com.apple.developer.networking.wifi-info"
+        ],
+        "privacy": {
+          "NSCameraUsageDescription": "Used to record and upload videos to YouTube.",
+          "NSMicrophoneUsageDescription": "Used to record audio for videos.",
+          "NSPhotoLibraryUsageDescription": "Used to upload photos and videos from your library.",
+          "NSPhotoLibraryAddUsageDescription": "Used to save videos to your photo library.",
+          "NSAppleMusicUsageDescription": "Allows access to Apple Music for background playback and media features.",
+          "NSBluetoothPeripheralUsageDescription": "Used for connecting to Bluetooth devices.",
+          "NSLocalNetworkUsageDescription": "Used to discover and connect to devices on your local network."
+        }
+      },
+      "versions": [
+        {
+          "version": "21.47.6",
+          "date": "2026-11-22T23:58:23Z",
+          "localizedDescription": "YouTube 21.47.6 | YouTubePlus_21.47.6_6.0\n\n### Latest Release, ENJOY!!\r\n\r\n**Cracked by** [@Spy_G](https://t.me/spyg_vault)\r\n\r\n> [!NOTE]\r\n> - \ud83d\udd11 No subscription required. \r\n> - \u2705 New Downloads manager.\r\n> - \ud83d\udcfa Full 4KHDR support.\r\n> - \ud83d\udcdd [6.0 release notes](https://github.com/dayanch96/YTLite/releases/tag/v6.0)\r\n> - \ud83e\udee7  Liquid Glass and iPhone Duo support.\r\n> - \ud83c\udd95 `YTLowContrastMode` tweak, enabled by default.\r\n>\r\n> - - -\r\n> #### Extra Tweaks: \r\n> - `YouPip` `YTweaks` `YTABConfig` `YouQuality` `YouChooseQuality` `YouGetCaption` `YTHoldForSpeed` `YTNativeShare`  `YTLowContrastMode` \r\n> -  `Return-YouTube-Dislikes` `DontEatMyContent` `Open in YouTube (Safari Extension)` `VolumeBoostYT`\r\n\r\n> [!WARNING]\r\n> - 21.34.3+ builds require iOS 17+ now.\r\n> - \u26a0Fix downloads by setting downloading button placement in youtubeplus settings to Overlay.\r\n> - \u26a0Disable Liquid Glass option in Interface settings if tab bar is glitched for you. or reinstall on top of the installed ipa.  Video player bar is still glitched.",
+          "downloadURL": "https://github.com/mrdrvt99/YouProEXTRA/releases/download/ytl-ipa9/YouTubePlus_21.47.6_6.0.ipa",
+          "size": 154815652,
+          "minOSVersion": "17.0"
+        },
+        {
+          "version": "21.33.6",
+          "date": "2026-11-16T19:37:48Z",
+          "localizedDescription": "YouTube 21.33.6 | YouTubePlus_21.33.6_6.0\n\n### iOS16+ Release, ENJOY!!\r\n\r\n**Cracked by** [@Spy_G](https://t.me/spyg_vault)\r\n\r\n> [!NOTE]\r\n> - \ud83d\udd11  No subscription required. \r\n> - \u2705 New Downloads manager.\r\n> - \ud83d\udcfa Full 4KHDR support. \r\n> - \ud83d\udcdd [6.0 release notes](https://github.com/dayanch96/YTLite/releases/tag/v6.0) \r\n> - \ud83c\udd95 `YTLowContrastMode` tweak, enabled by default.\r\n>\r\n> - - -\r\n> #### Extra Tweaks: \r\n> - `YouPip` `YTweaks` `YTABConfig` `YouQuality` `YouChooseQuality` `YouGetCaption` `YTHoldForSpeed` `YTNativeShare` `YTLowContrastMode` \r\n> -  `Return-YouTube-Dislikes` `DontEatMyContent` `Open in YouTube (Safari Extension)` `VolumeBoostYT`",
+          "downloadURL": "https://github.com/mrdrvt99/YouProEXTRA/releases/download/ytl-ipa6/YouTubePlus_21.33.6_6.0.ipa",
+          "size": 145337679,
+          "minOSVersion": "16.0"
+        },
+        {
+          "version": "20.21.6",
+          "date": "2026-11-03T15:59:20Z",
+          "localizedDescription": "YouTube 20.21.6 | YouTubePlus_20.21.6_6.0\n\n### iOS15+ Release, ENJOY!!\r\n\r\n**Cracked by** [@Spy_G](https://t.me/spyg_vault)\r\n\r\n> [!NOTE]\r\n> - \ud83d\udd11 No subscription required. \r\n> - \u2705 New Downloads manager.\r\n> - \ud83d\udcfa Full 4KHDR support with YTUHD\r\n> - \ud83d\udcdd [6.0 release notes](https://github.com/dayanch96/YTLite/releases/tag/v6.0)\r\n>\r\n> - - -\r\n> #### Extra Tweaks: \r\n> - `YouPip` `YTUHD` `YTweaks` `YTABConfig` `YouQuality` `YouChooseQuality` `YouGetCaption` `YTHoldForSpeed` `YTNativeShare`\r\n> -  `Return-YouTube-Dislikes` `DontEatMyContent` `Open in YouTube (Safari Extension)`\r\n> - - -\r\n\r\n> [!WARNING]\r\n> - \u26a0\ufe0f Shorts do not work. Hide Shorts from tab bars.\r\n> - \u26a0\ufe0f Disable Liquid Glass option in Interface setting if you're on iOS26+",
+          "downloadURL": "https://github.com/mrdrvt99/YouProEXTRA/releases/download/ytl-ipa5/YouTubePlus_20.21.6_6.0.ipa",
+          "size": 124900791,
+          "minOSVersion": "15.0"
+        },
+        {
+          "version": "19.20.2",
+          "date": "2026-11-03T16:01:34Z",
+          "localizedDescription": "YouTube 19.20.2 | YouTubePlus_19.20.2_6.0\n\n### iOS14+ Release, ENJOY!!\r\n\r\n**Cracked by** [@Spy_G](https://t.me/spyg_vault)\r\n\r\n> [!NOTE]\r\n> - \ud83d\udd11 No subscription required. \r\n> - \u2705 New Downloads manager.\r\n> - \ud83d\udcfa Full 4KHDR support with YTUHD\r\n> - \ud83d\udcdd [6.0 release notes](https://github.com/dayanch96/YTLite/releases/tag/v6.0)\r\n>\r\n> - - -\r\n> #### Extra Tweaks: \r\n> - `YouPip` `YTUHD`  `YTABConfig` `YouQuality` `YouChooseQuality` `YouGetCaption` `YTHoldForSpeed` `YTNativeShare`\r\n> -  `Return-YouTube-Dislikes` `DontEatMyContent` `Open in YouTube (Safari Extension)`\r\n>\r\n> - - - \r\n\r\n> [!WARNING]\r\n> - \u26a0\ufe0f Shorts do not work. Hide Shorts from tab bars.\r\n> - \u26a0\ufe0f Disable Liquid Glass option in Interface setting if you're on iOS26+\r\n> - \u26a0\ufe0f Full reinstall is recommended if you're downgrading from YT v21 to v19.",
+          "downloadURL": "https://github.com/mrdrvt99/YouProEXTRA/releases/download/ytl-ipa4/YouTubePlus_19.20.2_6.0.ipa",
+          "size": 115718319,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "21.24.3-5.2.2",
+          "date": "2026-09-09T23:50:01Z",
+          "localizedDescription": "YouTube 21.24.3 | YouTubePlus_21.24.3_5.2.2\n\n### Latest Stable Release, ENJOY!!\r\n##### Cracked by [zarzelworkshop](https://t.me/zarzelworkshop)\r\n\r\n> [!NOTE]\r\n> - \ud83d\udd11  no subscription required\r\n> - \u2705 Working Download Manager, switch to overlay button before downloading.\r\n> - \ud83c\udfa5 Bundled with **YTUHD**. it is broken in +21.25.5 versions as of now. max resolution is 1080p60. devices with native AV1 can still see 4K.\r\n> - \ud83d\udd27 Updated Gonerino and YT Headers\r\n> - Enable \"**Both** Download button placement\" under Downloading setting\r\n> - - -\r\n> #### Extra Tweaks:\r\n> - `YouPip` `YTUHD` `YTABConfig` `YouQuality` `YouChooseQuality`  `YouGetCaption` `YTHoldForSpeed` `YTNativeShare` `YTweaks`\r\n> -  `Return-YouTube-Dislikes` `DontEatMyContent` `Open in YouTube (Safari Extension)` `Gonerino`  `VolumeBoostYT` `PleaseDontStopTheMusic`\r\n\r\n> [!WARNING]\r\n> - Versions **+21.25.5 and newer** are **not recommended** right now.  \r\n> - Extra tweaks that are bundled with main tweak are currently unstable on newer versions.",
+          "downloadURL": "https://github.com/mrdrvt99/YouProEXTRA/releases/download/ytl-ipa3/YouTubePlus_21.24.3_5.2.2.ipa",
+          "size": 129031075,
+          "minOSVersion": "16.0"
+        },
+        {
+          "version": "20.21.6-5.2.2",
+          "date": "2026-09-10T00:23:15Z",
+          "localizedDescription": "YouTube 20.21.6 | YouTubePlus_20.21.6_5.2.2\n\n### iOS15+ build, ENJOY!!\r\n\r\n**Cracked by** [zarzelworkshop](https://t.me/zarzelworkshop)\r\n\r\n> [!NOTE]\r\n> - VolumeBoostYT is not included. \r\n> - YTUHD has more options than latest releases. 4K60HDR full support.\r\n> - to edit gonerino settings sideload a newer yt version before reverting to v20\r\n>\r\n> - - -\r\n> #### Extra Tweaks:\r\n> - `YouPip` `YTUHD` `YTABConfig` `YouQuality` `YouChooseQuality`  `YouGetCaption` `YTHoldForSpeed` `YTNativeShare` `YTweaks`\r\n> -  `Return-YouTube-Dislikes` `DontEatMyContent` `Open in YouTube (Safari Extension)` `Gonerino` `PleaseDontStopTheMusic`  \r\n\r\n> [!WARNING]\r\n> -  build may break in future when YT update backend.",
+          "downloadURL": "https://github.com/mrdrvt99/YouProEXTRA/releases/download/ytl-ipa2/YouTubePlus_20.21.6_5.2.2.ipa",
+          "size": 115566999,
+          "minOSVersion": "15.0"
+        },
+        {
+          "version": "19.20.2-5.2.2",
+          "date": "2026-09-10T00:28:44Z",
+          "localizedDescription": "YouTube 19.20.2 | YouTubePlus_19.20.2_5.2.2\n\n### iOS14+ build, ENJOY!!\r\n\r\n**Cracked by** [zarzelworkshop](https://t.me/zarzelworkshop)\r\n\r\n> [!NOTE]\r\n> - VolumeBoostYT, Gonerino and YTweaks are not included. \r\n> - YTUHD has more options than latest releases. 4K60HDR full support.\r\n> - Full reinstall is recommended if you're downgrading from YT v21 to v19. \r\n>\r\n> - - -\r\n> #### Extra Tweaks: \r\n> - `YouPip` `YTUHD` `YTABConfig` `YouQuality` `YouChooseQuality` `YouGetCaption` `YTHoldForSpeed`\r\n> -  `Return-YouTube-Dislikes` `DontEatMyContent` `Open in YouTube (Safari Extension)` `PleaseDontStopTheMusic` \r\n\r\n> [!WARNING]\r\n> -  build may break in future when YT update backend.",
+          "downloadURL": "https://github.com/mrdrvt99/YouProEXTRA/releases/download/ytl-ipa1/YouTubePlus_19.20.2_5.2.2.ipa",
+          "size": 106247621,
+          "minOSVersion": "14.0"
+        }
+      ]
     }
   ]
 }
