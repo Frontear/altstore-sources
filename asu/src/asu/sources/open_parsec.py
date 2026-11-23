@@ -1,8 +1,10 @@
+import typing
+
 from ._base import Source
 
 class OpenParsecSource(Source):
   def __init__(self):
     super().__init__("OpenParsec", "https://raw.githubusercontent.com/NearFrame/OpenParsec/refs/heads/main/altstore.json")
 
-  def get_app(self, data):
+  def get_app(self, data: dict[str, typing.Any]):
     return data["apps"][0]
